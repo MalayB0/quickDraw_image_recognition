@@ -5,7 +5,7 @@ Basic level image recognition using Pytorch
 Google colab 환경에서 테스트 했습니다.
 
 
-This is a basic level quickdraw dataset analysis using Phytochi CNN.
+This is a basic level quickdraw dataset analysis using Pytorch CNN.
 Tested in Google Colab environment.
 
 
