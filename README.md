@@ -11,4 +11,7 @@ dataset : https://github.com/googlecreativelab/quickdraw-dataset
 Tested in Google Colab environment.
 
 
+
+Please rename npyFiles like this
+
 ![Please_rename_npyFiles_like_this](https://user-images.githubusercontent.com/64701432/86115898-86dcbd80-bb07-11ea-99b6-c3fa3ee004f7.png)
