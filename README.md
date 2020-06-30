@@ -9,3 +9,6 @@ Google colab 환경에서 테스트 했습니다.
 This is a basic level quickdraw dataset analysis using Phytochi CNN.
 dataset : https://github.com/googlecreativelab/quickdraw-dataset
 Tested in Google Colab environment.
+
+
+![Please_rename_npyFiles_like_this](https://user-images.githubusercontent.com/64701432/86115898-86dcbd80-bb07-11ea-99b6-c3fa3ee004f7.png)
